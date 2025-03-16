@@ -1,0 +1,15 @@
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.AssemblyInfoInputs.cache
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.AssemblyInfo.cs
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.csproj.CoreCompileInputs.cache
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.sourcelink.json
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes.deps.json
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes.runtimeconfig.json
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes.dll
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/bin/Debug/net7.0/classes.pdb
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.dll
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/refint/classes.dll
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.pdb
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/classes.genruntimeconfig.cache
+/Users/mithiladamruwan/Downloads/c-sharp-advanced-object-oriented-programming-4406346-main/C-_Advanced_OOP/Start/Ch1/DefineClasses/obj/Debug/net7.0/ref/classes.dll
